@@ -1,0 +1,3 @@
+final_na_cikula = int(input())
+for i in range(final_na_cikula, 0, -1):
+  print(i)
